@@ -1,7 +1,7 @@
-Object Practice
+Objects and Arrays Practice
 =========
-##### Fork this repo, clone your fork, then open practice.js and complete all the activities.
-* COMMIT AND PUSH YOUR CODE OFTEN!
+##### Project work from 10.19
+* NB IT'S ALL IN ONE REPO!
 
 ### Learning Objectives
   - use cases for objects
