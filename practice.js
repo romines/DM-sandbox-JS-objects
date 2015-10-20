@@ -321,3 +321,10 @@ object. One called 'alertHello' which alerts 'hello' and another method called l
       cardCCV : card.ccv
     }
   }
+
+
+  function truthTester(val) {
+
+    return (val ? true : false);
+
+  }
